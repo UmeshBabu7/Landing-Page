@@ -1,0 +1,28 @@
+.functional-page {
+  padding: 3rem 2rem;
+  background: #fff;
+  text-align: center;
+}
+.functional-page h2 {
+  font-size: 2rem;
+  margin-bottom: 1rem;
+}
+.functional-page button {
+  padding: 0.8rem 1.5rem;
+  background: #00bcd4;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  font-size: 1rem;
+  cursor: pointer;
+  margin-bottom: 1rem;
+  transition: background 0.2s;
+}
+.functional-page button:hover {
+  background: #0097a7;
+}
+.cat-fact {
+  font-size: 1.2rem;
+  color: #333;
+  margin-top: 1rem;
+} 
