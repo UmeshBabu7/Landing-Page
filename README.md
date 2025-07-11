@@ -1,4 +1,4 @@
-# Aakash Labs Landing Page
+# Landing Page
 
 A modern, responsive landing page built with React, featuring smooth navigation, section-based routing, and social media integration.
 
